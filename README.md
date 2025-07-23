@@ -53,5 +53,4 @@ All graphs are designed to appear only during their respective time windows, as 
 
 ## Author
 
-**Pranchal Sahu**  
-M.Sc. Statistics (2nd Year)  
+**Pranchal Sahu** 
